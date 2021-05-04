@@ -1,0 +1,2 @@
+- Only Call Hooks At The Top Level
+- Don't Call Hooks Inside Loops, Conditions, or Nested Functions
